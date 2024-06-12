@@ -41,7 +41,7 @@ const OrganismsBlocksLetterModal = (
       >
         {t.rich('description', {
           p: (chunks) => (
-            <Text className='mt-sm text-lg font-light first:mt-0'>
+            <Text className='mt-sm text-lg first:mt-0 dark:font-light'>
               {chunks}
             </Text>
           ),
