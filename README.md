@@ -1,16 +1,18 @@
-<h1 align="center">🗄️ Front-end template</h1>
+<h1 align="center">🗄️ Valentine's Day</h1>
 
 <br>
 
 ## 🚀 Run project
 
-Visit the live [website](https://fetemplate.vercel.app)
+Visit the live [website](https://fevalentinesday.vercel.app)
 
 <br>
 
 ## 📝 Description
 
-Welcome to the ultimate front-end template repository! My go-to starting point for front-end projects. Dive into a meticulously crafted folder structure and a collection of components designed with best practices in mind. Whether you're building a simple website or a complex web application, this template will help you kickstart your project with ease and efficiency.
+Experience love in motion with our animated Valentine's Day letter, a captivating blend of heartfelt emotion and delightful animation. Dive into a charming modal to read this personalized message, beautifully themed to express your affection in a unique way. Celebrate love's global language with our internationalization feature, bringing you closer to your special someone, no matter where they are.
+
+Design by this [repo](https://github.com/shubham-vartak/valentineday.github.io)
 
 <br/>
 
@@ -32,7 +34,6 @@ Cutting-edge technologies to ensure an great experience:
 
 - `Next.js`
 - `Next-intl`
-- `Jest`
 - `TailwindCSS`
 - `JavaScript`
 
