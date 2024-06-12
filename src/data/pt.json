@@ -1,0 +1,31 @@
+{
+  "pages": {
+    "home": {
+      "blocks": {
+        "letter": {
+          "title": "Feliz Dia dos Namorados!",
+          "name": "Minha Amada Ana",
+          "modal": {
+            "title": "Uma mensagem linda",
+            "trigger": {
+              "label": "Abrir carta"
+            },
+            "close": {
+              "label": "Fechar carta"
+            },
+            "description": "<p>Hoje é o nosso <strong>quinto</strong> Dia dos Namorados juntos, e eu só consigo pensar em como sou sortudo por ter uma namorada tão <strong>pequena</strong> e <strong>poderosa</strong>. Com seus <strong>1 metro e meio</strong> de altura, você prova que grandes coisas vêm em pacotes pequenos – pacote esse que é adorável! Adoro quando você fica irritada por motivos <strong>bobos</strong>; você fica tão <strong>fofa</strong> que eu não consigo levar a sério. Quem diria que meu passatempo favorito seria te provocar só para ver aquela carinha zangada que me faz rir?</p> <p>Mas falando sério, <strong>Ana Elizabeth Von Wurmb da Silva</strong>, esses últimos cinco anos foram os melhores da minha vida. Cada dia ao seu lado é <strong>maravilhoso</strong>, e eu não trocaria nossas loucuras por nada. Você é a pessoa que me completa e me faz querer ser melhor. Obrigado por ser a minha parceira, minha confidente e minha <strong>eterna</strong> irritadinha preferida. Mal posso esperar para continuar essa jornada com você, provocando, rindo e amando muito.</p> <p>Com todo o amor e algumas risadas, <italic>Cleber</italic></p>"
+          }
+        }
+      }
+    }
+  },
+  "personalInfo": {
+    "name": {
+      "first": "Feliz Dia dos",
+      "last": "Namorados"
+    },
+    "summary": "Uma carta bonita e animada para o Dia dos Namorados.",
+    "description": "Uma carta bonita e animada para o Dia dos Namorados, perfeita para expressar seus sentimentos de uma maneira encantadora e envolvente.",
+    "favicon": "/images/favicon.ico"
+  }
+}

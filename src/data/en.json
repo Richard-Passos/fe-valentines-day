@@ -1,0 +1,31 @@
+{
+  "pages": {
+    "home": {
+      "blocks": {
+        "letter": {
+          "title": "Happy Valentine's Day!",
+          "name": "My Dearest Ana",
+          "modal": {
+            "title": "A beautiful message",
+            "trigger": {
+              "label": "Open letter"
+            },
+            "close": {
+              "label": "Close letter"
+            },
+            "description": "<p>Today is our <strong>fifth</strong> Valentine's Day together, and I can only think about how lucky I am to have such a <strong>small</strong> and <strong>powerful</strong> girlfriend. With your <strong>one and a half meters</strong> of height, you prove that great things come in small packages – and what an adorable package it is! I love it when you get annoyed over <strong>silly</strong> things; you look so <strong>cute</strong> that I can't take it seriously. Who would have thought that my favorite pastime would be teasing you just to see that little angry face that makes me laugh?</p> <p>But seriously, <strong>Ana Elizabeth Von Wurmb da Silva</strong>, these last five years have been the best of my life. Every day by your side is <strong>wonderful</strong>, and I wouldn't trade our craziness for anything. You are the person who completes me and makes me want to be better. Thank you for being my partner, my confidant, and my <strong>eternally</strong> favorite little grumpy one. I can't wait to continue this journey with you, teasing, laughing, and loving a lot.</p> <p>With all the love and some laughs, <italic>Cleber</italic></p>"
+          }
+        }
+      }
+    }
+  },
+  "personalInfo": {
+    "name": {
+      "first": "Happy Valentines's",
+      "last": "Day"
+    },
+    "summary": "A beautiful and animated letter for Valentines's Day.",
+    "description": "A beautiful and animated letter for Valentine's Day, perfect for expressing your feelings in a charming and engaging way.",
+    "favicon": "/images/favicon.ico"
+  }
+}
